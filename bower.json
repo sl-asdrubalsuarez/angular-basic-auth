@@ -21,11 +21,11 @@
     "tests"
   ],
   "devDependencies": {
-    "angular": "~1.2.3",
-    "angular-mocks": "~1.2.3"
+    "angular": "1.5.*",
+    "angular-mocks": "1.5.*"
   },
   "dependencies": {
-    "angular": "~1.2.3",
+    "angular": "1.5.*",
     "angular-base64-codec": "~1.0.0"
   }
 }
